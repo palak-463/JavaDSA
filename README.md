@@ -1,8 +1,8 @@
 public static void main (String [] args)
 
-{
+{<br>
         System.out.println ("Regular Practice");
-        System.out.println ("This repository contains some Java Problem Statements which I solve and practice regularly to increase my problem solving abilities and to get well versed with the Data Structures and Algorithms of this Object Oriented Programming Language.");
+        System.out.println ("This repository contains some Java Problem Statements which I solve and practice regularly to increase my problem solving abilities and to get well versed with the Data Structures and Algorithms of this Object Oriented Programming Language.");<br>
 }
 
 #All problems are divided into folders according to their Data Structures.
