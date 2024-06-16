@@ -9,6 +9,6 @@ public static void main (String [] args)
 
 #Problems Link: https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/
 
-/*All files contain the problem statment and approach use for solving it at the beginning of the file.*/
+/* All files contain the problem statment and approach use for solving it at the beginning of the file. */
 
-/*The time complexity and space complexity of the code are mentioned at the end of the file.*/
+/* The time complexity and space complexity of the code are mentioned at the end of the file. */
