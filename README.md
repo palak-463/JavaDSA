@@ -1,7 +1,7 @@
 ### Java DSA
 
-/* 
-Dedicated to my favourite programming language.
+/* <br>
+Dedicated to my favourite programming language. <br>
 */
 
 public class ReadMe 
@@ -42,6 +42,6 @@ public class ReadMe
     
 }
 
-/*
-Suggestions or feedback with respect to the code are welcome and appreciated.
+/* <br>
+Suggestions or feedback with respect to the code are welcome and appreciated. <br>
 */
