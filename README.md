@@ -1,5 +1,9 @@
 ### Java DSA
 
+/* 
+Dedicated to my favourite programming language.
+*/
+
 public class ReadMe 
 {
 
@@ -7,6 +11,9 @@ public class ReadMe
     {
         System.out.println("🖥️ Java DSA");
         System.out.println("This repository contains daily solutions for 450 questions from the DSA Sheet by Love Babbar.");
+        System.out.println("Each solution is designed to accept input from the user.");
+        System.out.println("Every solution includes the algorithm and approach used to solve the problem in the comment before the code.");
+        System.out.println("For every solution, you will also find the space and time complexity provided below the code as a comment.");
         System.out.println("Find the full sheet at: https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/");
         System.out.println("🗂️ Topic-Wise Distribution of 450 Questions: ");
         printTopicDistribution();
@@ -34,3 +41,7 @@ public class ReadMe
     }
     
 }
+
+/*
+Suggestions or feedback with respect to the code are welcome and appreciated.
+*/
